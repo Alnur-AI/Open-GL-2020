@@ -1,3 +1,0 @@
-/home/redragon/CG TASK1/CMakeFiles/rebuild_cache.dir
-/home/redragon/CG TASK1/CMakeFiles/edit_cache.dir
-/home/redragon/CG TASK1/CMakeFiles/main.dir
