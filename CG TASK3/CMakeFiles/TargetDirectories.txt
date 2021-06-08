@@ -1,0 +1,3 @@
+/home/redragon/GitHub/OpenGL/CG TASK3/CMakeFiles/rebuild_cache.dir
+/home/redragon/GitHub/OpenGL/CG TASK3/CMakeFiles/edit_cache.dir
+/home/redragon/GitHub/OpenGL/CG TASK3/CMakeFiles/main.dir
